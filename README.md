@@ -1,6 +1,8 @@
 golang-goxc
 ===========
 
+[![wercker status](https://app.wercker.com/status/ed40033717daaf800c9164938384c8bf/m "wercker status")](https://app.wercker.com/project/bykey/ed40033717daaf800c9164938384c8bf)
+
 A Wercker Box for cross-compiling Go using [goxc](https://github.com/laher/goxc).
 
 Based on wercker/golang@1.1.2 box.
