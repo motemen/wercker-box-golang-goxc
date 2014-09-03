@@ -1,6 +1,6 @@
 name: golang-goxc
-version: 0.0.0
-inherits: wercker/golang@1.1.2
+version: 0.1.0
+inherits: wercker/golang@1.2.0
 type: main
 platform: ubuntu@12.04
 description: Wercker box for cross-compiling Go using goxc
